@@ -1,0 +1,15 @@
+{
+  "name": "github2p",
+  "version": "1.0.0",
+  "description": "Generate any github repo to web pages in one second.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
+  }
+}
